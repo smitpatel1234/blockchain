@@ -3,7 +3,6 @@
 ## By
 **22IT113 - Smit Patel**
 
-## Features Implemented
 ### 1. Blockchain Creation
 - A blockchain is implemented with **5 blocks**, where the first block is the **Genesis Block**.
 - Each block contains:
